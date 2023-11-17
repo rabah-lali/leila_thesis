@@ -1,7 +1,7 @@
 # leila_thesis
 
 
-## Wielles Sensors (WS)
+## Wirelles Sensors (WS)
 ### Type of WS
 ###### WSN
 
