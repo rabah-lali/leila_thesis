@@ -1,1 +1,3 @@
 Welcome to the world of collaborative programming
+In this thesis we will develop motes for contiki OS and simulate the WSN using COOJA WSN Simulator
+Please wish my lovely leila good luck in escaping save and suve from this adventure 
